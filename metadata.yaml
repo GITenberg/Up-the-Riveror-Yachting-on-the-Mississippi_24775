@@ -1,0 +1,31 @@
+_repo: Up-the-Riveror-Yachting-on-the-Mississippi_24775
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Optic, Oliver
+    aliases:
+    - Adams, William T. (William Taylor)
+    - Adams, William Taylor
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '260'
+    url: http://www.gutenberg.org/2009/agents/260
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a5655
+description: ''
+gutenberg_issued: '2008-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24775'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mississippi River -- Juvenile fiction'
+- !lcsh 'Yachts -- Juvenile fiction'
+- !lcc 'PZ'
+title: Up the River; or, Yachting on the Mississippi
+url: http://www.gutenberg.org/ebooks/24775
